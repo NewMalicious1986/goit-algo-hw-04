@@ -29,7 +29,7 @@ The benchmarking results for different array sizes:
    - Becomes inefficient with \( O(n^2) \) complexity for larger datasets.
 
 2. **Merge Sort**:
-   - Stable and performs consistently with \( O(n \log n) \) complexity.
+   - Stable and performs consistently with \( O(n log n) \) complexity.
    - Suitable for larger datasets but requires additional memory for recursion.
 
 3. **Timsort**:
